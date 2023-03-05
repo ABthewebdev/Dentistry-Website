@@ -20,7 +20,7 @@ document.querySelector(".close").addEventListener("click", function() {
     pageWrapper.classList.remove('blur');
 })
 
-document.querySelector('butt').addEventListener('click', submit)
+document.querySelector('#butt').addEventListener('click', submit)
 function submit() {
     const fName = document.querySelector('#fName').value
     document.querySelector('#thx').innerText = `We can't wait to see you, ${fName}`;
