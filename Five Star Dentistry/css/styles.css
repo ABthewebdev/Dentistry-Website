@@ -7693,7 +7693,7 @@ input[type="radio"] + label:before {
   vertical-align: middle;
   cursor: wait;
   background-color: currentColor;
-  opacity: 0.5;
+  opacity: 0.4;
 }
 .placeholder.btn::before {
   display: inline-block;
