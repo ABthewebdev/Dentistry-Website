@@ -564,7 +564,7 @@ button,
     input[type="reset"],
     input[type="button"],
     button,
-    .button {
+    .button{
       font-size: 0.70em;
     } 
   }
