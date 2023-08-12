@@ -495,7 +495,7 @@ button,
   input[type="reset"].primary,
   input[type="button"].primary,
   button.primary,
-  .button.primary {
+  .button.primary{
     background-color: #4c5c96;
     box-shadow: none;
   }
